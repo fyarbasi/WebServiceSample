@@ -20,7 +20,7 @@ namespace WebServiceSample
         [WebMethod]
         public string HelloWorld()
         {
-            return "Hello World2";
+            return "Hello World2 gor";
         }
     }
 }
